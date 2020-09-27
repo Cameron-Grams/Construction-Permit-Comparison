@@ -6,18 +6,9 @@ The intent of this analysis was to re-exam the premise that college towns are mo
 
 After several emails with the government of the City of Ann Arbor construction permit information at the city level remains unavailable.  Therefore the lowest level of analysis available is the county, Washtenaw County.  Washtenaw County has both the University of Michigan and Eastern Michigan University so should be a reliable expression of trends in construction permit issuance based on having a college town. 
 
-The data used in analysis was provided by the US Census service:
+The data used in analysis was provided by the US Census service: <a href="https://www.census.gov/construction/bps/permitsbyusreg_cust.xls">National and Regional</a> and <a href="https://www2.census.gov/econ/bps/County/">Washtenaw County</a>
 
-<a href="https://www.census.gov/construction/bps/permitsbyusreg_cust.xls">
-National and Regional</a>
-
-<a href="https://www2.census.gov/econ/bps/County/">Washtenaw County</a>
-
-Getting the Washtenaw County information required copying that county from the full county information.  I consolidated Washtenaw County to a .csv file posted to my 
-
-<a href="https://gist.githubusercontent.com/Cameron-Grams/ffd22a38beb314b2390b87eddc4817f9/raw/a51d3bd1740821ffc7dcd0ec9a90753ca267123c/Wastenaw_Construction_Permits.csv ">
-GitHub</a>
-
+Getting the Washtenaw County information required copying that county from the full county information.  I consolidated Washtenaw County to a .csv file posted to my <a href="https://gist.githubusercontent.com/Cameron-Grams/ffd22a38beb314b2390b87eddc4817f9/raw/a51d3bd1740821ffc7dcd0ec9a90753ca267123c/Wastenaw_Construction_Permits.csv ">GitHub</a>
 
 The graph has the US, Midwest, and Washtenaw County displayed in context.  The upper row of graphs show the number of new residential construction permits issued in the US, Midwest and Washtenaw County.  The scale in the numbers issued is orders of magnitude higher for the US and region, but the decrease in new construction is clear across all three graphs. 
 
